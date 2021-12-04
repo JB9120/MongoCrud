@@ -1,2 +1,2 @@
-# MongoCrud
-Wallet management APIs using MongoDB, where user can register and manage deposite and withdrawal transactions!
+# MongoWallet
+ Wallet management APIs using MongoDB, where user can register and manage deposite and withdrawal transactions!
